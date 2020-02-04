@@ -1,0 +1,6 @@
+##
+# Основные настройки: макс. размер файла (в байтах) и разрешенные mime-type файла
+##
+main_settings:
+  max_size_byte: 10485760 # 10 МБ
+  mime_type : 'text/plain, application/download' # Все типы перечисляются через запятую и пробел
